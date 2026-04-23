@@ -1,13 +1,13 @@
 [
 	{
-		"name": "ダイカン帝国",
-		"leaderName": "ダイカン",
+		"name": "ダイカン王国",
+		"leaderName": "ダイカン国王",
 		"adjective": ["日印"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		"startIntroPart1": "ユ○アちゃん可愛い!",
 		"declaringWar": "おじゃな！",
-		"attacked": "は？",
+		"attacked": "いてぇ～",
 		"defeated": "最期のおじゃな…",
 		"introduction": "ダイカンTVのチャンネル登録よろしく！",
 		"neutralHello": "どうも！ ダイカンTVのダイカンです！！",
@@ -17,18 +17,18 @@
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead"]
+		"cities": ["カン都","キュリア","Q'Chovex","Q'Imphet","Q'Omphead"]
 	},
 	{
-		"name": "ガンガゼ共和国",
-		"leaderName": "ガンガゼ",
+		"name": "ガンガゼ帝国",
+		"leaderName": "ガンガゼ皇帝",
 		"adjective": ["ガンガジズム"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Cultural",
-		"startIntroPart1": "終わったぁー",
+		"startIntroPart1": "アディキダケダケ",
 		"declaringWar": "Your outdated systems are being deleted.",
 		"attacked": "Firewall breached! Initiating counter-measures.",
-		"defeated": "System crash... rebooting in another life...",
+		"defeated": "終わったー！",
 		"introduction": "Scanning... low-tech lifeform detected.",
 		"neutralHello": "Do you seek enlightenment in the neon glow?",
 		"outerColor": [255,165,0],
@@ -37,12 +37,12 @@
 		"cities": ["Cyberia", "Synth City", "Data Port", "Silicon Valley", "Circuitry"]
 	},
 	{
-		"name": "リー・ダイシヤ帝国",
-		"leaderName": "ダイ皇帝",
-		"adjective": ["黒帝"],
+		"name": "あゆむ王国",
+		"leaderName": "あゆむ奴隷",
+		"adjective": ["ニッグ"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
-		"startIntroPart1": "Let's大阪魂！",
+		"startIntroPart1": "差別主義サイコー",
 		"declaringWar": "The tide is coming for you.",
 		"attacked": "You dare disturb the silent depths?",
 		"defeated": "We return to the dark waters...",
@@ -54,9 +54,9 @@
 		"cities": ["The Abyss", "Mariana", "Coral Throne", "Deep Trench", "Hydro-Dome"]
 	},
 	{
-		"name": "Iron Legion",
-		"leaderName": "Grand Marshal",
-		"adjective": ["iron"],
+		"name": "ねこ好き共和国",
+		"leaderName": "ねこずき大臣",
+		"adjective": ["ねこずき"],
 		"startBias": ["Hills"],
 		"preferredVictoryType": "Domination",
 		"startIntroPart1": "ユリアちゃん可愛い!",
@@ -71,8 +71,8 @@
 		"cities": ["Fortress One", "Iron Spire", "Steel Forge", "Bunker 7", "Weaponry"]
 	},
 	{
-		"name": "Sky Nomads",
-		"leaderName": "Cloud-Walker",
+		"name": "アディキ共和国",
+		"leaderName": "アディキ首相",
 		"adjective": ["aerial"],
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Scientific",
@@ -88,8 +88,8 @@
 		"cities": ["Aeria", "Nimbus", "Stratosphere", "Zephyr Heights", "Sky Reach"]
 	},
 	{
-		"name": "Nature Spirits",
-		"leaderName": "Gaea",
+		"name": "テム共和国",
+		"leaderName": "テム将軍",
 		"adjective": ["wild"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Cultural",
@@ -105,8 +105,8 @@
 		"cities": ["Deep Root", "Leaf Shade", "Old Oak", "Green Heart", "Everbloom"]
 	},
 	{
-		"name": "Void Cult",
-		"leaderName": "The Eye",
+		"name": "チリリン共和国",
+		"leaderName": "チリリン大臣",
 		"adjective": ["void"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
@@ -122,8 +122,8 @@
 		"cities": ["The Rift", "Zero", "Oblivion", "Dark Star", "Vacuum"]
 	},
 	{
-		"name": "Golden Merchants",
-		"leaderName": "Midas",
+		"name": "ケイト連邦",
+		"leaderName": "ケイト大統領",
 		"adjective": ["golden"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
@@ -139,8 +139,8 @@
 		"cities": ["Commerce", "Bazaar", "Profit", "Diamond Peak", "Gold Vault"]
 	},
 	{
-		"name": "Solar Order",
-		"leaderName": "Solari",
+		"name": "プルトル王国",
+		"leaderName": "プル王子",
 		"adjective": ["solar"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
@@ -156,8 +156,8 @@
 		"cities": ["Solstice", "Helios", "Flare", "Corona", "Zenith"]
 	},
 	{
-		"name": "Ghost Pirates",
-		"leaderName": "Redbeard's Soul",
+		"name": "はる共和国",
+		"leaderName": "はる首相",
 		"adjective": ["spectral"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
