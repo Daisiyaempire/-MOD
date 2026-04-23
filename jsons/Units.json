@@ -1,13 +1,1 @@
-[
-  {
-    "name": "リーダーの威厳！",
-    "unitType": "Great Person",
-    "uniqueTo": "ダイカン王国",
-    "replaces": "Great General",
-    "movement": 2,
-    "strength": 45,
-    "range": 1,
-    "cost": 400,
-    "promotions": [
-      "Great General"
-    ]
+
