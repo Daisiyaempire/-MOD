@@ -28,8 +28,10 @@
 		"declaringWar": "マジで～あゆむ！",
 		"attacked": "マジできしょい",
 		"defeated": "終わったー！",
-		"introduction": "大企業のガンガゼです",
+		"introduction": "大企業の副リーダー",
 		"neutralHello": "大企業のガンガゼです！",
+		"tradeRequest": "取引するばい",
+		"denounced": "なにしてんの",
 		"outerColor": [255,165,0],
 		"innerColor": [255,255,255],
 		"cities": ["ガン都", "Synth City", "Data Port", "Silicon Valley", "Circuitry"]
@@ -46,6 +48,8 @@
 		"defeated": "We return to the dark waters...",
 		"introduction": "Bubbles... that is all you are to us.",
 		"neutralHello": "Is the air today to your liking?",
+		"tradeRequest": "俺と取引しようぜ！",
+		"denounced": "は？",
 		"outerColor": [0,0,0],
 		"innerColor": [75,0,130],
 		"cities": ["ニグ", "Mariana", "Coral Throne", "Deep Trench", "Hydro-Dome"]
