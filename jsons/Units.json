@@ -6,13 +6,12 @@
     "replaces": "Great General",
     "movement": 2,
     "strength": 45,
-    "rangedStrength": 36,
-    "range": 2,
-    "cost": ,
+    "range": 1,
+    "cost": 400,
     "requiredTech": "Ballistics",
     "requiredResource": "Uranium",
     "promotions": [
       ,
       "Great General"
-    }
+    
     ]
