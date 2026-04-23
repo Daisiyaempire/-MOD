@@ -17,5 +17,24 @@
     ],
     "displayName": "戦術指揮官",
     "description": "従来の将軍に代わる新しい指揮官ユニットです。移動力が1高く、周囲の部隊を鼓舞します。"
+  },
+  {
+    "name": "ダイカン騎馬隊",
+    "unitType": "Mounted",
+    "replaces": "Cavalry",
+    "uniqueTo": "ダイカン王国",
+    "strength": 38,
+    "movement": 4,
+    "cost": 250,
+    "requiredResource": "Horses",
+    "requiredTech": "Military Science",
+    "uniques": [
+      "Can move after attacking",
+      "No defensive bonuses",
+      "[%s]% Strength bonus vs [Gatling Gun] units <for [All] units>",
+      "Never appears as a Barbarian unit"
+    ],
+    "displayName": "彰義隊",
+    "description": "騎兵に代わる日本のユニークユニット。基本攻撃力が高く、ガトリング砲などに対して優位に立ち回れます。"
   }
 ]
