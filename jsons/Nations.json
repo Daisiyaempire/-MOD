@@ -73,7 +73,7 @@
 		"declaringfriendship": "友達なろぜ！",
 		"outerColor": [0,255,255],
 		"innerColor": [255,255,255],
-		"cities": ["Fortress One", "Iron Spire", "Steel Forge", "Bunker 7", "Weaponry"]
+		"cities": ["アイキ", "Iron Spire", "Steel Forge", "Bunker 7", "Weaponry"]
 	},
 	{
 		"name": "アディキ共和国",
@@ -89,7 +89,7 @@
 		"neutralHello": "The winds are favorable today.",
 		"outerColor": [154,205,50],
 		"innerColor": [255,255,255],
-		"cities": ["Aeria", "Nimbus", "Stratosphere", "Zephyr Heights", "Sky Reach"]
+		"cities": ["アヌキ", "Nimbus", "Stratosphere", "Zephyr Heights", "Sky Reach"]
 	},
 	{
 		"name": "テム共和国",
@@ -105,7 +105,7 @@
 		"neutralHello": "Let us walk the path of peace.",
 		"outerColor": [30,144,255],
 		"innerColor": [255,255,255],
-		"cities": ["Deep Root", "Leaf Shade", "Old Oak", "Green Heart", "Everbloom"]
+		"cities": ["チヒヒン", "Leaf Shade", "Old Oak", "Green Heart", "Everbloom"]
 	},
 	{
 		"name": "チリリン共和国",
@@ -199,7 +199,7 @@
 		"defeated": "Replaying from the beginning...",
 		"introduction": "Grass grows in the comments tonight (w).",
 		"neutralHello": "Welcome to the premium member lounge.",
-		"outerColor": [30,30,30],
+		"outerColor": [230,190,255],
 		"innerColor": [255,255,255],
 		"cities": ["Tag Land", "Bilibili", "Douga", "Ranking", "Live Stage"]
 	},
@@ -215,7 +215,7 @@
 		"defeated": "Logging off forever...",
 		"introduction": "I found your address. It's over.",
 		"neutralHello": "I'm just stating facts.",
-		"outerColor": [139,0,0],
+		"outerColor": [180,80,80],
 		"innerColor": [255,255,255],
 		"cities": ["Flame Post", "Chaos", "Exposure", "Ban Hammer", "Shadow Land"]
 	},
@@ -231,8 +231,8 @@
 		"defeated": "Muscle... failure...",
 		"introduction": "Do you even lift, bro?",
 		"neutralHello": "Nice gains today.",
-		"outerColor": [105,105,105],
-		"innerColor": [255,140,0],
+		"outerColor": [255,255,0],
+		"innerColor": [255,255,255],
 		"cities": ["Iron Gym", "Whey Peak", "Bulk City", "Bench Press", "Squat Rack"]
 	},
 	{
@@ -247,8 +247,8 @@
 		"defeated": "Out of stamina...",
 		"introduction": "We thrive on the free-to-play spirit.",
 		"neutralHello": "Got any free codes?",
-		"outerColor": [192,192,192],
-		"innerColor": [0,128,0],
+		"outerColor": [255,20,147],
+		"innerColor": [255,255,255],
 		"cities": ["Daily Quest", "Login Bonus", "Free Town", "Grind Hill", "Luck Land"]
 	},
 	{
@@ -263,8 +263,8 @@
 		"defeated": "System crash...",
 		"introduction": "Looking for rare parts?",
 		"neutralHello": "The neon glow is beautiful.",
-		"outerColor": [0,255,255],
-		"innerColor": [0,0,139],
+		"outerColor": [171,193,81],
+		"innerColor": [255,255,255],
 		"cities": ["Radio Kan", "Part Center", "Neon St.", "Mainboard", "CPU Core"]
 	},
 	{
@@ -279,8 +279,8 @@
 		"defeated": "The channel was deleted...",
 		"introduction": "I'll make you look like a villain in 60 seconds.",
 		"neutralHello": "Check the link in the bio.",
-		"outerColor": [0,0,0],
-		"innerColor": [255,0,0],
+		"outerColor": [128,128,128],
+		"innerColor": [255,255,255],
 		"cities": ["Shorts", "Highlights", "Viral City", "Clickbait", "Thumbnail"]
 	},
 	{
@@ -295,8 +295,8 @@
 		"defeated": "The secret is out...",
 		"introduction": "Please show your badge before talking.",
 		"neutralHello": "This is a private conversation.",
-		"outerColor": [75,0,130],
-		"innerColor": [218,165,32],
+		"outerColor": [128,0,128],
+		"innerColor": [255,255,255],
 		"cities": ["Secret Room", "Elite Club", "Inner Circle", "Badge Town", "Gold Tier"]
 	},
 	{
@@ -311,7 +311,7 @@
 		"defeated": "Bad RNG...",
 		"introduction": "Move efficiently or don't move at all.",
 		"neutralHello": "Analyzing your stats now.",
-		"outerColor": [0,0,128],
+		"outerColor": [0,0,255],
 		"innerColor": [255,255,255],
 		"cities": ["Meta City", "Frame Perfect", "Zero Lag", "Patch Notes", "Nerf"]
 	},
@@ -327,8 +327,8 @@
 		"defeated": "The seal is broken...",
 		"introduction": "Do you wish to see my true power?",
 		"neutralHello": "The moon is red tonight.",
-		"outerColor": [0,0,0],
-		"innerColor": [128,0,128],
+		"outerColor": [255,0,0],
+		"innerColor": [255,255,255],
 		"cities": ["Chaos Gate", "Nightmare", "Dark Abyss", "Evil Eye", "Shadow Edge"]
 	},
 	{
@@ -343,7 +343,7 @@
 		"defeated": "Everyone went home...",
 		"introduction": "Who's bringing the snacks?",
 		"neutralHello": "Nice to meet you in person!",
-		"outerColor": [255,192,203],
+		"outerColor": [0,128,0],
 		"innerColor": [255,255,255],
 		"cities": ["Shinjuku Hub", "Meeting Point", "Party Hall", "Karaoke", "Izakaya"]
 	},
@@ -359,8 +359,8 @@
 		"defeated": "No likes... no life...",
 		"introduction": "Can you take a photo of me? From this angle.",
 		"neutralHello": "Everything looks so sparkling today!",
-		"outerColor": [255,105,180],
-		"innerColor": [255,255,224],
+		"outerColor": [255,255,180],
+		"innerColor": [255,255,255],
 		"cities": ["Studio Alpha", "Filter Hill", "Insta-Town", "Spotlight", "Glitter"]
 	},
 	{
@@ -375,8 +375,8 @@
 		"defeated": "Game Over. Continue?",
 		"introduction": "The graphics don't matter, it's the gameplay.",
 		"neutralHello": "Press Start to begin.",
-		"outerColor": [139,69,19],
-		"innerColor": [0,255,0],
+		"outerColor": [0,69,0],
+		"innerColor": [255,255,255],
 		"cities": ["Level 1", "Pixel Town", "Save Point", "Cartridge", "Console"]
 	}
 ]
