@@ -51,8 +51,8 @@
 		"defeated": "We return to the dark waters...",
 		"introduction": "Bubbles... that is all you are to us.",
 		"neutralHello": "Is the air today to your liking?",
-		"outerColor": [0,0,128],
-		"innerColor": [0,255,127],
+		"outerColor": [0,0,0],
+		"innerColor": [75,0,130],
 		"unique": "CULTURAL_SADISM",
 		"cities": ["The Abyss", "Mariana", "Coral Throne", "Deep Trench", "Hydro-Dome"]
 	},
