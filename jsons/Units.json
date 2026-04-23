@@ -23,9 +23,9 @@
     "unitType": "Mounted",
     "replaces": "Cavalry",
     "uniqueTo": "ダイカン王国",
-    "strength": 38,
+    "strength": 35,
     "movement": 4,
-    "cost": 250,
+    "cost": 200,
     "requiredResource": "Horses",
     "requiredTech": "Military Science",
     "uniques": [
@@ -34,7 +34,7 @@
       "[%s]% Strength bonus vs [Gatling Gun] units <for [All] units>",
       "Never appears as a Barbarian unit"
     ],
-    "displayName": "彰義隊",
-    "description": "騎兵に代わる日本のユニークユニット。基本攻撃力が高く、ガトリング砲などに対して優位に立ち回れます。"
+    "displayName": "印度尼西亜騎馬団",
+    "description": "騎兵に代わるダイカン王国のユニークユニット。基本攻撃力が高く、ガトリング砲などに対して優位に立ち回れる。"
   }
 ]
