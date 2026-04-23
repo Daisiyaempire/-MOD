@@ -234,7 +234,7 @@
 	},
 	{
 		"name": "エストラント",
-		"leaderName": "エスト",
+		"leaderName": "エスト首相",
 		"adjective": ["frugal"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Cultural",
@@ -249,8 +249,8 @@
 		"cities": ["Daily Quest", "Login Bonus", "Free Town", "Grind Hill", "Luck Land"]
 	},
 	{
-		"name": "アキバ公国",
-		"leaderName": "ジャンク卿",
+		"name": "マシュー王国",
+		"leaderName": "マシュー国王",
 		"adjective": ["electric"],
 		"startBias": ["Hills"],
 		"preferredVictoryType": "Scientific",
@@ -265,8 +265,8 @@
 		"cities": ["Radio Kan", "Part Center", "Neon St.", "Mainboard", "CPU Core"]
 	},
 	{
-		"name": "切り抜き王国",
-		"leaderName": "編集男爵",
+		"name": "たいち王国",
+		"leaderName": "たいち国王",
 		"adjective": ["clipped"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Cultural",
@@ -281,8 +281,8 @@
 		"cities": ["Shorts", "Highlights", "Viral City", "Clickbait", "Thumbnail"]
 	},
 	{
-		"name": "メン限公国",
-		"leaderName": "会員教祖",
+		"name": "チンチロ共和国",
+		"leaderName": "チンチロ大臣",
 		"adjective": ["exclusive"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
@@ -297,8 +297,8 @@
 		"cities": ["Secret Room", "Elite Club", "Inner Circle", "Badge Town", "Gold Tier"]
 	},
 	{
-		"name": "ガチ勢連邦",
-		"leaderName": "効率厨",
+		"name": "ローナ連邦",
+		"leaderName": "ローナ大統領",
 		"adjective": ["optimal"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
@@ -313,8 +313,8 @@
 		"cities": ["Meta City", "Frame Perfect", "Zero Lag", "Patch Notes", "Nerf"]
 	},
 	{
-		"name": "暗黒騎士団",
-		"leaderName": "中二病卿",
+		"name": "ごちゃん王国",
+		"leaderName": "ごちゃん国王",
 		"adjective": ["abyssal"],
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Domination",
@@ -329,8 +329,8 @@
 		"cities": ["Chaos Gate", "Nightmare", "Dark Abyss", "Evil Eye", "Shadow Edge"]
 	},
 	{
-		"name": "オフ会連邦",
-		"leaderName": "幹事長",
+		"name": "まっさん王国",
+		"leaderName": "まっさん国王",
 		"adjective": ["social"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
@@ -345,8 +345,8 @@
 		"cities": ["Shinjuku Hub", "Meeting Point", "Party Hall", "Karaoke", "Izakaya"]
 	},
 	{
-		"name": "映え映え公国",
-		"leaderName": "加工姫",
+		"name": "もみじ共和国",
+		"leaderName": "もみじ首相",
 		"adjective": ["vivid"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
@@ -361,8 +361,8 @@
 		"cities": ["Studio Alpha", "Filter Hill", "Insta-Town", "Spotlight", "Glitter"]
 	},
 	{
-		"name": "レトロ合衆国",
-		"leaderName": "8bit大統領",
+		"name": "タクテン共和国",
+		"leaderName": "たくてん首相",
 		"adjective": ["classic"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Cultural",
@@ -375,117 +375,5 @@
 		"outerColor": [139,69,19],
 		"innerColor": [0,255,0],
 		"cities": ["Level 1", "Pixel Town", "Save Point", "Cartridge", "Console"]
-	},
-	{
-		"name": "沼地帝国",
-		"leaderName": "沈没公爵",
-		"adjective": ["bog"],
-		"startBias": ["Swamp"],
-		"preferredVictoryType": "Domination",
-		"startIntroPart1": "ユリアちゃん可愛い!",
-		"declaringWar": "Come, sink into the depths with us.",
-		"attacked": "The mud will swallow you whole.",
-		"defeated": "Returning to the ooze...",
-		"introduction": "It's damp here. Just the way we like it.",
-		"neutralHello": "Watch your step.",
-		"outerColor": [85,107,47],
-		"innerColor": [0,0,0],
-		"cities": ["Mud Hole", "Deep Bog", "Sinking Land", "Stagnant", "Marsh End"]
-	},
-	{
-		"name": "天空島",
-		"leaderName": "雲の上の人",
-		"adjective": ["lofty"],
-		"startBias": ["Mountain"],
-		"preferredVictoryType": "Scientific",
-		"startIntroPart1": "ユリアちゃん可愛い!",
-		"declaringWar": "Looking down on you was getting boring.",
-		"attacked": "You reached this height? Impossible.",
-		"defeated": "Gravity... it's so heavy...",
-		"introduction": "The air is too thin for commoners like you.",
-		"neutralHello": "What's happening on the ground today?",
-		"outerColor": [240,248,255],
-		"innerColor": [176,196,222],
-		"cities": ["Cloud Nine", "High Gate", "Overlook", "Sky Garden", "Ascension"]
-	},
-	{
-		"name": "シャドウ王国",
-		"leaderName": "影の王",
-		"adjective": ["lurking"],
-		"startBias": ["Forest"],
-		"preferredVictoryType": "Domination",
-		"startIntroPart1": "ユリアちゃん可愛い!",
-		"declaringWar": "You won't even see the blade that kills you.",
-		"attacked": "I'm just a shadow. You hit nothing.",
-		"defeated": "Vanishing into the light...",
-		"introduction": "We are the whispers in the dark.",
-		"neutralHello": "Did you feel that breeze? That was me.",
-		"outerColor": [25,25,112],
-		"innerColor": [0,0,0],
-		"cities": ["Hidden Leaf", "Dark Alley", "Secret Base", "Invisible", "Ghost Town"]
-	},
-	{
-		"name": "ログイン帝国",
-		"leaderName": "パスワード王",
-		"adjective": ["secure"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		"startIntroPart1": "ユリアちゃん可愛い!",
-		"declaringWar": "Brute forcing your defenses now.",
-		"attacked": "Firewall breached! Deploying antivirus!",
-		"defeated": "Connection lost...",
-		"introduction": "Access denied. Please enter your password.",
-		"neutralHello": "Your security is weak. Fix it.",
-		"outerColor": [47,79,79],
-		"innerColor": [0,255,0],
-		"cities": ["Auth", "Vault", "Key City", "Firewall", "Server Room"]
-	},
-	{
-		"name": "サブカル王国",
-		"leaderName": "メンヘラ伯爵",
-		"adjective": ["underground"],
-		"startBias": ["Tundra"],
-		"preferredVictoryType": "Cultural",
-		"startIntroPart1": "ユリアちゃん可愛い!",
-		"declaringWar": "If I can't have world peace, no one can.",
-		"attacked": "Why are you being so mean to me?",
-		"defeated": "Finally... at peace...",
-		"introduction": "Do you think I'm weird? Everyone does.",
-		"neutralHello": "I'm listening to music. Don't talk to me.",
-		"outerColor": [230,230,250],
-		"innerColor": [0,0,0],
-		"cities": ["Blue Room", "Poetry", "Night Walk", "Melancholy", "Solitude"]
-	},
-	{
-		"name": "おじゃな連合",
-		"leaderName": "最期の審判者",
-		"adjective": ["final"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Domination",
-		"startIntroPart1": "ユリアちゃん可愛い!",
-		"declaringWar": "It's time to say... ojana!",
-		"attacked": "Is that all the judgment you have?",
-		"defeated": "The real ojana starts now...",
-		"introduction": "We are the end of the line.",
-		"neutralHello": "Are you prepared for the finish?",
-		"outerColor": [0,0,0],
-		"innerColor": [255,255,255],
-		"cities": ["The End", "Ojana Base", "Farewell", "Void", "Zero Point"]
-	},
-	{
-		"name": "オタク文化圏",
-		"leaderName": "限界執事",
-		"adjective": ["fandom"],
-		"startBias": ["Jungle"],
-		"preferredVictoryType": "Cultural",
-		"startIntroPart1": "ユリアちゃん可愛い!",
-		"declaringWar": "I'll fight anyone who disrespects my oshi!",
-		"attacked": "My collection! Don't touch the figures!",
-		"defeated": "At least I have my memories...",
-		"introduction": "ユリアちゃん is life. That is all.",
-		"neutralHello": "Did you see the new update?",
-		"outerColor": [255,255,255],
-		"innerColor": [255,182,193],
-		"cities": ["Oshigoto", "Goods Shop", "Event Hall", "Fanzine", "Holy Land"]
 	}
 ]
