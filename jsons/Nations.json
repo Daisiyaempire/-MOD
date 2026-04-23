@@ -34,7 +34,7 @@
 		"introduction": "Scanning... low-tech lifeform detected.",
 		"neutralHello": "Do you seek enlightenment in the neon glow?",
 		"outerColor": [255,165,0],
-		"innerColor": [255,0,255],
+		"innerColor": [255,255,255],
 		"unique": "FATHERLAND_ETERNAL",
 		"cities": ["Cyberia", "Synth City", "Data Port", "Silicon Valley", "Circuitry"]
 	},
