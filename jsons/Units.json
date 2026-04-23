@@ -1,17 +1,21 @@
 [
-	{
-		"name": "リーダーの威厳！",
-		"unitType": "Ranged",
-		"uniqueTo": "ダイカン王国",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+  {
+    "name": "リーダーの威厳！",
+    "unitType": "Great Person",
+    "uniqueTo": "ダイカン王国",
+    "replaces": "Great General",
+    "movement": 2,
+    "strength": 90,
+    "rangedStrength": 36,
+    "range": 2,
+    "cost": 500,
+    "requiredTech": "Ballistics",
+    "requiredResource": "Uranium",
+    "promotions": [
+      "Logistics",
+      "Accuracy I",
+      "Great General"
+    ],
+    "attackSound": "phasers"
+  }
 ]
