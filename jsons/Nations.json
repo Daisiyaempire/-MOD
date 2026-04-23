@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
+		"name": "ダイカン帝国",
+		"leaderName": "ダイカン",
 		"adjective": ["alien"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
@@ -21,8 +21,8 @@
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead"]
 	},
 	{
-		"name": "Neon Empire",
-		"leaderName": "Cyber-Lord",
+		"name": "ガンガゼ共和国",
+		"leaderName": "ガンガゼ",
 		"adjective": ["neon"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Cultural",
@@ -39,8 +39,8 @@
 		"cities": ["Cyberia", "Synth City", "Data Port", "Silicon Valley", "Circuitry"]
 	},
 	{
-		"name": "Deep Sea Dwellers",
-		"leaderName": "Abyssal King",
+		"name": "リー・ダイシヤ帝国",
+		"leaderName": "ダイ皇帝",
 		"adjective": ["abyssal"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
