@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Phasers",
+		"name": "リーダーの威厳！",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "ダイカン帝国",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
