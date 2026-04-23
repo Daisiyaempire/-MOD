@@ -52,8 +52,8 @@
 		"tradeRequest": "俺と取引しようぜ！",
 		"denounced": "雑魚が！",
 		"declaringfriendship": "友達なろぜ！",
-		"outerColor": [0,0,0],
-		"innerColor": [75,0,130],
+		"outerColor": [176,224,230],
+		"innerColor": [255,255,255],
 		"cities": ["ニグ", "Mariana", "Coral Throne", "Deep Trench", "Hydro-Dome"]
 	},
 	{
@@ -71,8 +71,8 @@
 		"tradeRequest": "俺と取引しようぜ！",
 		"denounced": "は？",
 		"declaringfriendship": "友達なろぜ！",
-		"outerColor": [50,50,50],
-		"innerColor": [255,69,0],
+		"outerColor": [0,255,255],
+		"innerColor": [255,255,255],
 		"cities": ["Fortress One", "Iron Spire", "Steel Forge", "Bunker 7", "Weaponry"]
 	},
 	{
@@ -87,7 +87,7 @@
 		"defeated": "Falling... back to the earth...",
 		"introduction": "Look up, if you wish to see greatness.",
 		"neutralHello": "The winds are favorable today.",
-		"outerColor": [135,206,235],
+		"outerColor": [154,205,50],
 		"innerColor": [255,255,255],
 		"cities": ["Aeria", "Nimbus", "Stratosphere", "Zephyr Heights", "Sky Reach"]
 	},
@@ -103,8 +103,8 @@
 		"defeated": "ぐっ…この俺が負ける…なんて、",
 		"introduction": "貴国の物全部俺にくれ！",
 		"neutralHello": "Let us walk the path of peace.",
-		"outerColor": [34,139,34],
-		"innerColor": [244,164,96],
+		"outerColor": [30,144,255],
+		"innerColor": [255,255,255],
 		"cities": ["Deep Root", "Leaf Shade", "Old Oak", "Green Heart", "Everbloom"]
 	},
 	{
@@ -119,8 +119,8 @@
 		"defeated": "Finally, the void takes us...",
 		"introduction": "We see the end of your world.",
 		"neutralHello": "The stars are cold tonight.",
-		"outerColor": [0,0,0],
-		"innerColor": [138,43,226],
+		"outerColor": [220,20,60],
+		"innerColor": [255,255,255],
 		"cities": ["The Rift", "Zero", "Oblivion", "Dark Star", "Vacuum"]
 	},
 	{
@@ -135,8 +135,8 @@
 		"defeated": "Bankruptcy... the ultimate defeat.",
 		"introduction": "Show me your gold, and I might listen.",
 		"neutralHello": "A profitable day to you.",
-		"outerColor": [218,165,32],
-		"innerColor": [255,250,205],
+		"outerColor": [18,10,143],
+		"innerColor": [255,255,255],
 		"cities": ["Commerce", "Bazaar", "Profit", "Diamond Peak", "Gold Vault"]
 	},
 	{
@@ -151,8 +151,8 @@
 		"defeated": "The light fades... briefly.",
 		"introduction": "Do you bask in our radiance?",
 		"neutralHello": "Warmth be upon you.",
-		"outerColor": [255,140,0],
-		"innerColor": [255,255,0],
+		"outerColor": [157,34,53],
+		"innerColor": [255,255,255],
 		"cities": ["Solstice", "Helios", "Flare", "Corona", "Zenith"]
 	},
 	{
@@ -167,8 +167,8 @@
 		"defeated": "Back to the Locker with us...",
 		"introduction": "You look like you've seen a ghost.",
 		"neutralHello": "Got any rum? No? Pity.",
-		"outerColor": [47,79,79],
-		"innerColor": [175,238,238],
+		"outerColor": [152,251,152],
+		"innerColor": [255,255,255],
 		"cities": ["Shipwreck", "Fog Harbor", "Ghost Isle", "Black Tide", "Spectral Bay"]
 	},
 	{
@@ -183,8 +183,8 @@
 		"defeated": "Refund... please...",
 		"introduction": "Red superchats only, please.",
 		"neutralHello": "Thanks for the donation!",
-		"outerColor": [255,0,0],
-		"innerColor": [255,215,0],
+		"outerColor": [255,215,0],
+		"innerColor": [255,255,255],
 		"cities": ["Stream Hub", "Donation Box", "Super Chat", "Membership", "Archive"]
 	},
 	{
@@ -216,7 +216,7 @@
 		"introduction": "I found your address. It's over.",
 		"neutralHello": "I'm just stating facts.",
 		"outerColor": [139,0,0],
-		"innerColor": [0,0,0],
+		"innerColor": [255,255,255],
 		"cities": ["Flame Post", "Chaos", "Exposure", "Ban Hammer", "Shadow Land"]
 	},
 	{
