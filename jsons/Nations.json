@@ -68,6 +68,9 @@
 		"defeated": "The legion never truly dies...",
 		"introduction": "State your business, quickly.",
 		"neutralHello": "Are you here to submit or trade?",
+		"tradeRequest": "俺と取引しようぜ！",
+		"denounced": "は？",
+		"declaringfriendship": "友達なろぜ！",
 		"outerColor": [50,50,50],
 		"innerColor": [255,69,0],
 		"cities": ["Fortress One", "Iron Spire", "Steel Forge", "Bunker 7", "Weaponry"]
