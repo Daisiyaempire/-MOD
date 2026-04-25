@@ -275,11 +275,11 @@
 		"declaringWar": "やめて貰っていいですか？",
 		"attacked": "ほんとに信じられん",
 		"defeated": "もういいっすよ…俺なんて",
-		"introduction": "",
-		"neutralHello": "Got any free codes?",
+		"introduction": "エストランテ",
+		"neutralHello": "俺なんて興味ないっしょ？",
 		"outerColor": [255,20,147],
 		"innerColor": [255,255,255],
-		"cities": ["Daily Quest", "Login Bonus", "Free Town", "Grind Hill", "Luck Land"]
+		"cities": ["S都"]
 	},
 	{
 		"name": "マシュー王国",
@@ -406,8 +406,8 @@
 		"declaringWar": "ふざけんな",
 		"attacked": "痛すぎだろうが",
 		"defeated": "負けた…",
-		"introduction": "The graphics don't matter, it's the gameplay.",
-		"neutralHello": "Press Start to begin.",
+		"introduction": "なぜか実写",
+		"neutralHello": "テッテケテンたくてん！",
 		"outerColor": [0,69,0],
 		"innerColor": [255,255,255],
 		"cities": ["???"]
