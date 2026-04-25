@@ -68,7 +68,7 @@
 		"defeated": "負けたー",
 		"introduction": "犬も飼ってるネコ好きです！",
 		"neutralHello": "ネコは好きかい？",
-		"tradeRequest": "取引しようぜ！",
+		"tradeRequest": "マヨネーズラーメン！",
 		"denounced": "は？ヤバ！",
 		"declaringfriendship": "友達なろぜ！",
 		"outerColor": [0,255,255],
@@ -199,11 +199,14 @@
 		"declaringWar": "何するんですか？やめてください",
 		"attacked": "なめないでください",
 		"defeated": "…",
-		"introduction": "Red superchats only, please.",
-		"neutralHello": "Thanks for the donation!",
+		"introduction": "のんびり～",
+		"neutralHello": "まさかのまさか！",
+		"tradeRequest": "私と取引いたしませんか？",
+		"denounced": "やめてください"
+		"declaringfriendship": "仲間になりませんか？"
 		"outerColor": [255,215,0],
 		"innerColor": [255,255,255],
-		"cities": ["Stream Hub", "Donation Box", "Super Chat", "Membership", "Archive"]
+		"cities": ["鷹アンド都市"]
 	},
 	{
 		"name": "調共和国",
@@ -222,7 +225,7 @@
 		"declaringfriendship": "俺の友達",
 		"outerColor": [230,190,255],
 		"innerColor": [255,255,255],
-		"cities": ["Tag Land", "Bilibili", "Douga", "Ranking", "Live Stage"]
+		"cities": ["ハモ都"]
 	},
 	{
 		"name": "とっとー王国",
@@ -238,10 +241,10 @@
 		"neutralHello": "おっとっと？とっとー",
 		"tradeRequest": "取引しようぜ！"
 		"denounced": "侵します…"
-		"declaringfriendship": "友達なろ！"
+		"declaringfriendship": "お前も友達な！"
 		"outerColor": [180,80,80],
 		"innerColor": [255,255,255],
-		"cities": ["Flame Post", "Chaos", "Exposure", "Ban Hammer", "Shadow Land"]
+		"cities": ["変質都"]
 	},
 	{
 		"name": "せつでん王国",
@@ -250,14 +253,17 @@
 		"startBias": ["Hills"],
 		"preferredVictoryType": "Diplomatic",
 		"startIntroPart1": "常時節電中",
-		"declaringWar": "Time for your final set!",
-		"attacked": "Is that all the weight you can handle?",
-		"defeated": "Muscle... failure...",
+		"declaringWar": "電撃戦じゃ！",
+		"attacked": "感電じゃい！",
+		"defeated": "決定的敗北…",
 		"introduction": "節電中毒",
 		"neutralHello": "大して節電してないセツデンです！",
+		"tradeRequest": "電撃取引せい！"
+		"denounced": "ビリビリ…怒"
+		"declaringfriendship": "あなたに電気を供給いたします！"
 		"outerColor": [255,255,0],
 		"innerColor": [255,255,255],
-		"cities": ["Iron Gym", "Whey Peak", "Bulk City", "Bench Press", "Squat Rack"]
+		"cities": ["電都"]
 	},
 	{
 		"name": "エストラント",
@@ -265,11 +271,11 @@
 		"adjective": ["frugal"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Cultural",
-		"startIntroPart1": "ユリアちゃん可愛い!",
-		"declaringWar": "Your paid items won't save you!",
-		"attacked": "We are used to the grind.",
-		"defeated": "Out of stamina...",
-		"introduction": "We thrive on the free-to-play spirit.",
+		"startIntroPart1": "この世の心理…",
+		"declaringWar": "やめて貰っていいですか？",
+		"attacked": "ほんとに信じられん",
+		"defeated": "もういいっすよ…俺なんて",
+		"introduction": "",
 		"neutralHello": "Got any free codes?",
 		"outerColor": [255,20,147],
 		"innerColor": [255,255,255],
@@ -281,12 +287,15 @@
 		"adjective": ["electric"],
 		"startBias": ["Hills"],
 		"preferredVictoryType": "Scientific",
-		"startIntroPart1": "ユリアちゃん可愛い!",
-		"declaringWar": "Your hardware is obsolete.",
-		"attacked": "Circuit short-circuiting!",
-		"defeated": "System crash...",
-		"introduction": "Looking for rare parts?",
-		"neutralHello": "The neon glow is beautiful.",
+		"startIntroPart1": "マシュマロ！",
+		"declaringWar": "マッシュルーム！",
+		"attacked": "おま！？",
+		"defeated": "プシュー…",
+		"introduction": "アイ・ハブ・ア・マシュー",
+		"neutralHello": "こんにちはマッシュ！",
+		"tradeRequest": "俺と取引しようぜ！",
+		"denounced": "は？",
+		"declaringfriendship": "友達なろぜ！",
 		"outerColor": [171,193,81],
 		"innerColor": [255,255,255],
 		"cities": ["Radio Kan", "Part Center", "Neon St.", "Mainboard", "CPU Core"]
@@ -393,10 +402,10 @@
 		"adjective": ["classic"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Cultural",
-		"startIntroPart1": "ユリアちゃん可愛い!",
-		"declaringWar": "Entering boss battle mode.",
-		"attacked": "Ouch! I lost a heart!",
-		"defeated": "Game Over. Continue?",
+		"startIntroPart1": "たくわん",
+		"declaringWar": "ふざけんな",
+		"attacked": "痛すぎだろうが",
+		"defeated": "負けた…",
 		"introduction": "The graphics don't matter, it's the gameplay.",
 		"neutralHello": "Press Start to begin.",
 		"outerColor": [0,69,0],
