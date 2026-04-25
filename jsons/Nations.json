@@ -298,7 +298,7 @@
 		"declaringfriendship": "友達なろぜ！",
 		"outerColor": [171,193,81],
 		"innerColor": [255,255,255],
-		"cities": ["Radio Kan", "Part Center", "Neon St.", "Mainboard", "CPU Core"]
+		"cities": ["カシュン都"]
 	},
 	{
 		"name": "たいち王国",
@@ -362,7 +362,7 @@
 		"neutralHello": "The moon is red tonight.",
 		"outerColor": [255,0,0],
 		"innerColor": [255,255,255],
-		"cities": ["Chaos Gate", "Nightmare", "Dark Abyss", "Evil Eye", "Shadow Edge"]
+		"cities": ["5チャン都"]
 	},
 	{
 		"name": "まっさん王国",
@@ -378,7 +378,7 @@
 		"neutralHello": "Nice to meet you in person!",
 		"outerColor": [0,128,0],
 		"innerColor": [255,255,255],
-		"cities": ["Shinjuku Hub", "Meeting Point", "Party Hall", "Karaoke", "Izakaya"]
+		"cities": ["マッ都"]
 	},
 	{
 		"name": "もみじ共和国",
@@ -410,6 +410,6 @@
 		"neutralHello": "テッテケテンたくてん！",
 		"outerColor": [0,69,0],
 		"innerColor": [255,255,255],
-		"cities": ["???"]
+		"cities": ["タク都"]
 	}
 ]
