@@ -16,7 +16,7 @@
 		"declaringfriendship": "俺ら友達な！",
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
-		"cities": ["カン都","キュリア","Q'Chovex","Q'Imphet","Q'Omphead"]
+		"cities": ["カン都","キュリア"]
 	},
 	{
 		"name": "ガンガゼ帝国",
@@ -35,7 +35,7 @@
 		"declaringfriendship": "ガンガゼ友好宣言！",
 		"outerColor": [255,165,0],
 		"innerColor": [255,255,255],
-		"cities": ["ガン都", "Synth City", "Data Port", "Silicon Valley", "Circuitry"]
+		"cities": ["ガン都"]
 	},
 	{
 		"name": "あゆむ王国",
@@ -49,12 +49,12 @@
 		"defeated": "は？は？ウソだろ…ウソだろ…",
 		"introduction": "クレイジーモンキー！",
 		"neutralHello": "下ネタ大好きあゆむです！",
-		"tradeRequest": "俺と取引しようぜ！",
+		"tradeRequest": "おい！俺と取引しろ！",
 		"denounced": "雑魚が！",
 		"declaringfriendship": "友達なろぜ！",
 		"outerColor": [176,224,230],
 		"innerColor": [255,255,255],
-		"cities": ["ニグ", "Mariana", "Coral Throne", "Deep Trench", "Hydro-Dome"]
+		"cities": ["ニグ都", "ニコウラ"]
 	},
 	{
 		"name": "ねこ好き共和国",
@@ -62,18 +62,18 @@
 		"adjective": ["ねこずき"],
 		"startBias": ["Hills"],
 		"preferredVictoryType": "Scientific",
-		"startIntroPart1": "ユリアちゃん可愛い!",
+		"startIntroPart1": "アディキ可愛い～",
 		"declaringWar": "終わったー",
 		"attacked": "ヤバい！",
-		"defeated": "The legion never truly dies...",
-		"introduction": "State your business, quickly.",
-		"neutralHello": "Are you here to submit or trade?",
-		"tradeRequest": "俺と取引しようぜ！",
-		"denounced": "は？",
+		"defeated": "負けたー",
+		"introduction": "犬も飼ってるネコ好きです！",
+		"neutralHello": "ネコは好きかい？",
+		"tradeRequest": "取引しようぜ！",
+		"denounced": "は？ヤバ！",
 		"declaringfriendship": "友達なろぜ！",
 		"outerColor": [0,255,255],
 		"innerColor": [255,255,255],
-		"cities": ["アイキ", "Iron Spire", "Steel Forge", "Bunker 7", "Weaponry"]
+		"cities": ["キャッ都", "アイキ"]
 	},
 	{
 		"name": "アディキ共和国",
@@ -81,15 +81,18 @@
 		"adjective": ["aerial"],
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Scientific",
-		"startIntroPart1": "ユリアちゃん可愛い!",
-		"declaringWar": "Death from above!",
-		"attacked": "You cannot hit what you cannot reach.",
-		"defeated": "Falling... back to the earth...",
-		"introduction": "Look up, if you wish to see greatness.",
-		"neutralHello": "The winds are favorable today.",
+		"startIntroPart1": "お兄ちゃん！しっかりして！",
+		"declaringWar": "喧嘩なら負けないよ～",
+		"attacked": "PVPならまけないぞ！",
+		"defeated": "お兄…ちゃん…タスケ…",
+		"introduction": "しっかり者の弟",
+		"neutralHello": "お兄ちゃんよりしっかりしてます！",
+		"tradeRequest": "取引しよ！",
+		"denounced": "お兄ちゃんに言いつけてやる！",
+		"declaringfriendship": "お兄ちゃん大好き～",
 		"outerColor": [154,205,50],
 		"innerColor": [255,255,255],
-		"cities": ["アヌキ", "Nimbus", "Stratosphere", "Zephyr Heights", "Sky Reach"]
+		"cities": ["アヌキ都", "アニーバ"]
 	},
 	{
 		"name": "テム共和国",
@@ -101,11 +104,14 @@
 		"declaringWar": "受けてたつ！",
 		"attacked": "負けるわけないやんw",
 		"defeated": "ぐっ…この俺が負ける…なんて、",
-		"introduction": "貴国の物全部俺にくれ！",
-		"neutralHello": "Let us walk the path of peace.",
+		"introduction": "強欲男",
+		"neutralHello": "平和と戦争どっちが好きだ！",
+		"tradeRequest": "貴国のもの全部くれ！"
+		"denounced": "は？",
+		"declaringfriendship": "俺と友達なれ！",
 		"outerColor": [30,144,255],
 		"innerColor": [255,255,255],
-		"cities": ["チヒヒン", "Leaf Shade", "Old Oak", "Green Heart", "Everbloom"]
+		"cities": ["チヒヒン都", "アネツヨ"]
 	},
 	{
 		"name": "チリリン共和国",
@@ -113,15 +119,18 @@
 		"adjective": ["void"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Diplomatic",
-		"startIntroPart1": "ユリアちゃん可愛い!",
-		"declaringWar": "Embrace the eternal dark.",
-		"attacked": "You strike at the wind.",
-		"defeated": "Finally, the void takes us...",
-		"introduction": "We see the end of your world.",
-		"neutralHello": "The stars are cold tonight.",
+		"startIntroPart1": "推し活最高！",
+		"declaringWar": "ボコボコにしちゃうんだから！",
+		"attacked": "女子に何てことするの！",
+		"defeated": "ごめん…テム…",
+		"introduction": "しっかり者",
+		"neutralHello": "８番チリリンです！",
+		"tradeRequest": "取引しましょ！",
+		"denounced": "酷いわ…",
+		"declaringfriendship": "お友達になりましょ！"
 		"outerColor": [220,20,60],
 		"innerColor": [255,255,255],
-		"cities": ["The Rift", "Zero", "Oblivion", "Dark Star", "Vacuum"]
+		"cities": ["テル都", "アニカモ"]
 	},
 	{
 		"name": "ケイト連邦",
@@ -137,7 +146,7 @@
 		"neutralHello": "A profitable day to you.",
 		"outerColor": [18,10,143],
 		"innerColor": [255,255,255],
-		"cities": ["Commerce", "Bazaar", "Profit", "Diamond Peak", "Gold Vault"]
+		"cities": ["カラフ都"]
 	},
 	{
 		"name": "プルトル王国",
@@ -145,15 +154,15 @@
 		"adjective": ["solar"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Diplomatic",
-		"startIntroPart1": "ユリアちゃん可愛い!",
-		"declaringWar": "Burn in the holy light!",
-		"attacked": "The sun never sets on our wrath.",
-		"defeated": "The light fades... briefly.",
-		"introduction": "Do you bask in our radiance?",
-		"neutralHello": "Warmth be upon you.",
+		"startIntroPart1": "マイクラ大好き！",
+		"declaringWar": "徹底的にボコす！",
+		"attacked": "プロが負けるわけないやろ！",
+		"defeated": "この俺が…負けた…だと！？",
+		"introduction": "プロゲーマー",
+		"neutralHello": "プルトロール！",
 		"outerColor": [157,34,53],
 		"innerColor": [255,255,255],
-		"cities": ["Solstice", "Helios", "Flare", "Corona", "Zenith"]
+		"cities": ["プロ都"]
 	},
 	{
 		"name": "はる共和国",
@@ -161,12 +170,12 @@
 		"adjective": ["spectral"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
-		"startIntroPart1": "ユリアちゃん可愛い!",
-		"declaringWar": "Board their ships! Spare no one!",
-		"attacked": "You're fighting shadows, matey!",
-		"defeated": "Back to the Locker with us...",
-		"introduction": "You look like you've seen a ghost.",
-		"neutralHello": "Got any rum? No? Pity.",
+		"startIntroPart1": "無口一徹！",
+		"declaringWar": "なんですか？やるんですか？",
+		"attacked": "僕強いですよ？",
+		"defeated": "貴方を地獄まで追いかけます",
+		"introduction": "勝ちますよ",
+		"neutralHello": "貴方は誰ですか？",
 		"outerColor": [152,251,152],
 		"innerColor": [255,255,255],
 		"cities": ["Shipwreck", "Fog Harbor", "Ghost Isle", "Black Tide", "Spectral Bay"]
@@ -177,10 +186,10 @@
 		"adjective": ["monetary"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Cultural",
-		"startIntroPart1": "ユリアちゃん可愛い!",
-		"declaringWar": "Pay to win, baby! Your end is near.",
-		"attacked": "Hey! That's against the terms of service!",
-		"defeated": "Refund... please...",
+		"startIntroPart1": "まじめです！",
+		"declaringWar": "何するんですか？やめてください",
+		"attacked": "なめないでください",
+		"defeated": "…",
 		"introduction": "Red superchats only, please.",
 		"neutralHello": "Thanks for the donation!",
 		"outerColor": [255,215,0],
@@ -193,10 +202,10 @@
 		"adjective": ["commented"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
-		"startIntroPart1": "ユリアちゃん可愛い!",
-		"declaringWar": "Let the danmaku rain upon you!",
-		"attacked": "Hahaha! What a funny joke!",
-		"defeated": "Replaying from the beginning...",
+		"startIntroPart1": "問題児担当！",
+		"declaringWar": "家庭内戦争 開戦！",
+		"attacked": "防衛第1！",
+		"defeated": "終わったー",
 		"introduction": "Grass grows in the comments tonight (w).",
 		"neutralHello": "Welcome to the premium member lounge.",
 		"outerColor": [230,190,255],
@@ -225,12 +234,12 @@
 		"adjective": ["protein"],
 		"startBias": ["Hills"],
 		"preferredVictoryType": "Diplomatic",
-		"startIntroPart1": "ユリアちゃん可愛い!",
+		"startIntroPart1": "常時節電中",
 		"declaringWar": "Time for your final set!",
 		"attacked": "Is that all the weight you can handle?",
 		"defeated": "Muscle... failure...",
-		"introduction": "Do you even lift, bro?",
-		"neutralHello": "Nice gains today.",
+		"introduction": "節電中毒",
+		"neutralHello": "大して節電してないセツデンです！",
 		"outerColor": [255,255,0],
 		"innerColor": [255,255,255],
 		"cities": ["Iron Gym", "Whey Peak", "Bulk City", "Bench Press", "Squat Rack"]
@@ -313,7 +322,7 @@
 		"neutralHello": "Analyzing your stats now.",
 		"outerColor": [0,0,255],
 		"innerColor": [255,255,255],
-		"cities": ["Meta City", "Frame Perfect", "Zero Lag", "Patch Notes", "Nerf"]
+		"cities": ["ロイズ都"]
 	},
 	{
 		"name": "ごちゃん王国",
@@ -337,7 +346,7 @@
 		"adjective": ["social"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
-		"startIntroPart1": "ユリアちゃん可愛い!",
+		"startIntroPart1": "あまり顔出さない",
 		"declaringWar": "You weren't invited to the party!",
 		"attacked": "Hey, let's just talk it out over drinks!",
 		"defeated": "Everyone went home...",
@@ -353,7 +362,7 @@
 		"adjective": ["vivid"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
-		"startIntroPart1": "ユリアちゃん可愛い!",
+		"startIntroPart1": "もみもみもみじ！",
 		"declaringWar": "Your existence is not aesthetic enough.",
 		"attacked": "My makeup! How dare you!",
 		"defeated": "No likes... no life...",
@@ -361,7 +370,7 @@
 		"neutralHello": "Everything looks so sparkling today!",
 		"outerColor": [255,255,180],
 		"innerColor": [255,255,255],
-		"cities": ["Studio Alpha", "Filter Hill", "Insta-Town", "Spotlight", "Glitter"]
+		"cities": ["テマード都"]
 	},
 	{
 		"name": "タクテン共和国",
@@ -377,6 +386,6 @@
 		"neutralHello": "Press Start to begin.",
 		"outerColor": [0,69,0],
 		"innerColor": [255,255,255],
-		"cities": ["Level 1", "Pixel Town", "Save Point", "Cartridge", "Console"]
+		"cities": ["???"]
 	}
 ]
